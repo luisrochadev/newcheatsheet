@@ -27,15 +27,14 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 `$ git add -A` - adds everything in current path
 
 #### Commit changes in staged files
-`$ git commit -m "<commit message>"` - __Fill Me Out__
-
+`$ git commit -m "<commit message>"` - Record changes to the repository along with a message to describe the change.dq
 #### Branching
-`$ git branch <branch name>` - __Fill Me Out__
+`$ git branch <branch name>` - Creates a copy of the master branch with the given name.
 
-`$ git branch` - __Fill Me Out__
+`$ git branch` - List, create, or delete branches
 
-`$ git checkout <branch name>` - __Fill Me Out__
+`$ git checkout <branch name>` - Switch branches or restore working tree files.
 
 #### Merging
 
-`$ git merge <branch name>` - __Fill Me Out__
+`$ git merge <branch name>` - Join two or more development histories together.
